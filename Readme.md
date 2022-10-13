@@ -1,5 +1,5 @@
 # Jogo da Memória 
 
-- Digite "Nome Usuario"
+- Digite "Nome Usuário"
 - Começe a jogar!
 - Boa diversão...
